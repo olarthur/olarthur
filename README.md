@@ -4,8 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olarthur&show_icons=true&theme=highcontrast)<br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olarthur&layout=compact)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
